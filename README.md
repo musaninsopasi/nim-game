@@ -1,1 +1,1 @@
-## Nim game oyunu
+## Nim game oyunu.
